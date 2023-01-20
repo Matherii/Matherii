@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Matherii
 - 👀 I’m interested in ...python programming
 - 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...web an d application development
+- 💞️ I’m looking to collaborate on ...web and application development
 - 📫 How to reach me ...ian.muriuki@riarauniversity.ac.ke
 
 <!---
